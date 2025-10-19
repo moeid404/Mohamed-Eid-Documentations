@@ -44,7 +44,7 @@
 
   <!-- ✅ Download Button -->
   <p align="center">
-    <a href="https://drive.google.com/file/d/110zm2_9By7nMNJ0kOM_5r09xwe1-bpvF/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/drive/folders/1ge6VKiJ5D8S8Bf1flsHGeaqwuV8uiR8m?usp=sharing" target="_blank">
       <img alt="Free Download" src="https://img.shields.io/badge/Free%20Download-22C55E?style=for-the-badge">
     </a>
   </p>
