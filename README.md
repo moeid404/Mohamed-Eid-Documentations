@@ -42,19 +42,6 @@
   <!-- ✅ Divider -->
   <hr style="border:none; border-top:1px solid #d1d5db; margin:12px 0;">
 
-  <!-- ✅ Table of Contents Section -->
-  <strong>Table of Contents:</strong>
-  <ul>
-    <li>Starting</li>
-    <li>IAM and CLI</li>
-    <li>EC2</li>
-    <li>ASG</li>
-    <li>ELB</li>
-  </ul>
-
-  <!-- ✅ Divider -->
-  <hr style="border:none; border-top:1px dotted #666; margin:8px 0;">
-
   <!-- ✅ Download Button -->
   <p align="center">
     <a href="https://drive.google.com/file/d/1hIol3VJBK3EGIQ4VddxgTFVh-5ua4bcp/view?usp=sharing" target="_blank">
