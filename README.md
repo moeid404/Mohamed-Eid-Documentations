@@ -56,6 +56,41 @@
 ---
 
 <!-- =========================
+🔹 Documentation Block: AWS SAA
+========================= -->
+## ☁️ IT & Cloud – Fundamentals
+<table>
+<tr>
+<td width="40%" valign="top">
+
+  <!-- ✅ Left Side: Cover Image -->
+  <img src="./assets/2.IT&Cloud-Foundmentals.png" alt="AWS SAA Cover" width="100%" style="border-radius:10px;" />
+
+</td>
+<td width="60%" valign="top">
+
+  <!-- ✅ Summary Section -->
+  <strong>Summary:</strong>
+  <p>
+  This documentation explains the core IT and cloud concepts in simple terms — starting from the difference between a computer and a server, how data centers became cloud platforms, and how virtualization lets multiple systems run on one machine. It also clarifies basics like DNS (internet address system) and the role of proxy vs reverse proxy in managing and securing network traffic.
+  </p>
+
+  <!-- ✅ Divider -->
+  <hr style="border:none; border-top:1px solid #d1d5db; margin:12px 0;">
+
+  <!-- ✅ Soon Button -->
+  <p align="center">
+    <img alt="Soon" src="https://img.shields.io/badge/Soon-22C55E?style=for-the-badge">
+  </p>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<!-- =========================
 🔹 Global Visitor Counter
 ========================= -->
 <p align="left" style="margin-top:8px;">
